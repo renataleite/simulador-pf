@@ -2552,8 +2552,6 @@ $(document).ready(function(){
 
 
 
-        // Inserir a tabela no HTML
-
         $("body table:last-child").remove();
 
 
